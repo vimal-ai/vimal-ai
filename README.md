@@ -11,4 +11,4 @@ Here are some ideas to get you started:
 - 💬 Ask me about data science
 - 📫 How to reach me: [linkedIn](https://www.linkedin.com/in/vimal-ai/)
 - 😄 Pronouns: ...
-- ⚡ Fun fact: I like to play tennis but I don't know how to play it.
+- ⚡ Fun fact: I like to play video games.
