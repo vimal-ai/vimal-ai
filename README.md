@@ -9,6 +9,6 @@ Here are some ideas to get you started:
 <!--  - 👯 I’m looking to collaborate on ...  -->
 <!--  - 🤔 I’m looking for help with ...  -->
 - 💬 Ask me about data science
-- 📫 How to reach me: [linkedIn](https://www.linkedin.com/in/vimal-ai)
+- 📫 How to reach me: [linkedIn](https://www.linkedin.com/in/vimal-ai/)
 - 😄 Pronouns: ...
 - ⚡ Fun fact: I like to play tennis but I don't know how to play it.
