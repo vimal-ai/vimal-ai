@@ -5,7 +5,7 @@
 Here are some ideas to get you started:
 -->
 - 🔭 I’m currently working on virtual assistant.
-- 🌱 I’m currently learning Julia
+- 🌱 I’m currently learning Recommendation Engine
 <!--  - 👯 I’m looking to collaborate on ...  -->
 <!--  - 🤔 I’m looking for help with ...  -->
 - 💬 Ask me about data science
