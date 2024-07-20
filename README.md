@@ -24,6 +24,19 @@ I am a passionate software developer with over 3 years of experience in building
 - **SRE:** Defined and implemented SRE policies and Service Level Objectives (SLOs) in collaboration with Google’s SRE team, ensuring high reliability and performance standards.
 - **New Relic Integration:** Integrated New Relic for real-time analytics and monitoring, enhancing proactive optimizations, debugging, and aligning with SRE goals for improved application reliability and performance.
 
+## Projects
+
+### [JSON Viewer](https://vimal-ai.github.io/jsonviewer/)
+**Description:** A web application that allows users to view, format, and validate JSON data. This tool provides a user-friendly interface for working with JSON. It offers features like syntax highlighting, collapsible trees, and error detection.
+- **Technologies Used:** JavaScript, HTML, CSS
+- **Impact:** Improved the efficiency of developers by providing an easy-to-use tool for working with JSON data.
+
+### [Hyper XML - Java Lib](https://github.com/vimal-ai/hyperxml)
+**Description:** A high-performance Java library for fast serialization, deserialization, and processing of dynamic, unstructured XML data. Effortlessly manage complex XML with speed and flexibility.
+- **Technologies Used:** Java, N-ary Tree(Data Structure)
+- **Impact:** Streamlined XML data handling, making it easier for developers to work with complex XML structures.
+
+
 ## Contact Me
 
 - **Email:** vimalmishra.ai@gmail.com
