@@ -2,7 +2,7 @@
 
 ## About Me
 
-I am a passionate software developer with over 3 years of experience in building scalable and efficient systems. I specialize in backend development, particularly with Java, Spring Boot, and microservices. I thrive in fast-paced environments and enjoy tackling complex problems.
+I am a passionate software developer with over 4 years of experience in building scalable and efficient systems. I specialize in backend development, particularly with Java, Spring Boot, and microservices. I thrive in fast-paced environments and enjoy tackling complex problems.
 
 ## Skills
 
@@ -14,7 +14,27 @@ I am a passionate software developer with over 3 years of experience in building
 
 ## Experience
 
-### Mystifly (September 2021 – Present)
+### Flipkart (February 2025 – Present)
+**Software Development Engineer II**
+
+- Contributed to the Flipkart Data Platform, an internal ETL ecosystem enabling Flipkart and its subsidiaries to
+push, transform, and visualize data.
+- Developed and onboarded multiple jobs for integrating new Pub/Sub and Kafka topics into the platform pipeline.
+- Implemented Apache Flink jobs to store enriched metadata into Hive tables, optimizing data accessibility and
+analytics.
+- Worked on various enhancements to improve system reliability, scalability, and metadata tracking across the
+platform.
+
+### Walmart (August 2024 – February 2025)
+**Software Engineer III**
+
+- Contributed to backend development of Walmart’s internal customer care tool, focused on improving agent
+operations.
+- Developed a feature to onboard and update agents in bulk, used during the year-end sale to scale support
+operations rapidly.
+- Worked with Java and Spring Boot to implement RESTful APIs and improve data processing workflows.
+
+### Mystifly (September 2021 – August 2024)
 **Software Engineer - Backend**
 
 - **Supplier API Integration:** Led the migration and optimization of the codebase from Camel to Spring Boot, implementing async and non-blocking features, resulting in a 3x faster platform response time and a 10x increase in throughput.
